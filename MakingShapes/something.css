@@ -1,0 +1,46 @@
+
+#trapezoid {
+    border-bottom: 100px solid red;
+    border-left: 60px solid transparent;
+    border-right: 100px solid transparent;
+    width: 250px;
+    margin: 0% 30% 0% 20%;
+}
+
+#rectangle {
+    width: 850px;
+    border-bottom: 200px solid red;
+    margin: auto;
+    position: relative;
+    z-index: 2;
+}
+
+#wheels{
+    width: 70%;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+
+
+#frontWheel {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 100px;
+    float: left;
+}
+
+
+#backWheel{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 100px;
+    float: right;
+}
+
+
+
+
+
