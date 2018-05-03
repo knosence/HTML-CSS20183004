@@ -17,8 +17,8 @@
       <file leaf-file-name="mock-protfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mock-protfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="107" column="40" selection-start-line="107" selection-start-column="40" selection-end-line="107" selection-end-column="40" />
+            <state relative-caret-position="1122">
+              <caret line="111" column="59" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -108,12 +108,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525267313581</updated>
       <workItem from="1525267315509" duration="105000" />
-      <workItem from="1525267452909" duration="3046000" />
+      <workItem from="1525267452909" duration="3688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3151000" />
+    <option name="totallyTimeSpent" value="3793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="36" width="1920" height="1044" extended-state="6" />
@@ -154,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mock-protfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="107" column="40" selection-start-line="107" selection-start-column="40" selection-end-line="107" selection-end-column="40" />
+        <state relative-caret-position="1122">
+          <caret line="111" column="59" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
         </state>
       </provider>
     </entry>
