@@ -1,4 +1,3 @@
-
 function goToWork(day) {
     if(day <=4){
         console.log("It's a week day, go out and work!");
