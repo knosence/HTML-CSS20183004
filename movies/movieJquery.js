@@ -14,15 +14,15 @@ $(document).ready(function () {
             console.log(movie)
             const poster = `${imageBaseUrl}w300/${movie.poster_path}`;
 
-            nowPlayingHTML +=`
+            nowPlayingHTML += `
                 <div class="col-sm-3">
                     <img src="${poster}" />
                    
                 </div>    
                 `
-                })
-                $('#movie-grid').html(nowPlayingHTML);
+        })
+        $('#movie-grid').html(nowPlayingHTML);
 
-            })
+    })
 
-        });
+});
