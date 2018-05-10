@@ -1,0 +1,96 @@
+# Translation of desktop_extragear-multimedia_kaudiocreator into esperanto.
+# Axel Rousseau <axel@esperanto-jeunes.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-07-20 01:29+0000\n"
+"PO-Revision-Date: 2009-11-15 12:06+0100\n"
+"Last-Translator: Axel Rousseau <axel@esperanto-jeunes.org>\n"
+"Language-Team: esperanto <kde-i18n-eo@kde.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: pology\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: audiocd_extract.desktop:6
+msgctxt "Name"
+msgid "KAudioCreator-Extract"
+msgstr ""
+
+#: audiocd_extract.desktop:61
+msgctxt "Name"
+msgid "Extract and Encode Audio Tracks"
+msgstr ""
+
+#: kaudiocreator.notifyrc:3
+msgctxt "Comment"
+msgid "KAudioCreator"
+msgstr ""
+
+#: kaudiocreator.notifyrc:58
+msgctxt "Name"
+msgid "All Jobs Finished"
+msgstr ""
+
+#: kaudiocreator.notifyrc:109
+msgctxt "Comment"
+msgid "All of the jobs in the queue have been finished"
+msgstr ""
+
+#: kaudiocreator.notifyrc:160
+msgctxt "Name"
+msgid "Track Ripped"
+msgstr ""
+
+#: kaudiocreator.notifyrc:211
+msgctxt "Comment"
+msgid "Track finished ripping"
+msgstr ""
+
+#: kaudiocreator.notifyrc:263
+msgctxt "Name"
+msgid "CD Ripped"
+msgstr ""
+
+#: kaudiocreator.notifyrc:314
+msgctxt "Comment"
+msgid "CD finished ripping"
+msgstr ""
+
+#: kaudiocreator.notifyrc:367
+msgctxt "Name"
+msgid "Track Encoded"
+msgstr ""
+
+#: kaudiocreator.notifyrc:418
+msgctxt "Comment"
+msgid "Track finished encoding"
+msgstr ""
+
+#: kaudiocreator.notifyrc:470
+msgctxt "Name"
+msgid "CD Encoded"
+msgstr ""
+
+#: kaudiocreator.notifyrc:520
+msgctxt "Comment"
+msgid "CD finished encoding"
+msgstr ""
+
+#: org.kde.kaudiocreator.desktop:2
+msgctxt "Comment"
+msgid "Frontend for audio file creation"
+msgstr ""
+
+#: org.kde.kaudiocreator.desktop:52
+msgctxt "Name"
+msgid "KAudioCreator"
+msgstr ""
+
+#: org.kde.kaudiocreator.desktop:108
+msgctxt "GenericName"
+msgid "CD Ripper"
+msgstr ""

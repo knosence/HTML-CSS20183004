@@ -1,0 +1,159 @@
+# Translation of desktop_playground-sysadmin into esperanto.
+# Axel Rousseau <axel@esperanto-jeunes.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-01-20 02:26+0000\n"
+"PO-Revision-Date: 2009-11-15 12:06+0100\n"
+"Last-Translator: Axel Rousseau <axel@esperanto-jeunes.org>\n"
+"Language-Team: esperanto <kde-i18n-eo@kde.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: pology\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: apperd/apperd.desktop:9
+msgctxt "Name"
+msgid "Apper Monitor"
+msgstr ""
+
+#: apperd/apperd.desktop:50
+msgctxt "Comment"
+msgid "Watch transactions and Notify about Software Updates"
+msgstr ""
+
+#: apperd/apperd.notifyrc:3 Apper/org.kde.apper.desktop:8
+msgctxt "Name"
+msgid "Apper"
+msgstr ""
+
+#: apperd/apperd.notifyrc:46
+msgctxt "Comment"
+msgid "Apper Notification"
+msgstr ""
+
+#: apperd/apperd.notifyrc:88
+msgctxt "Name"
+msgid "New updates available"
+msgstr ""
+
+#: apperd/apperd.notifyrc:133
+msgctxt "Name"
+msgid "Updates are being installed"
+msgstr ""
+
+#: apperd/apperd.notifyrc:180
+msgctxt "Name"
+msgid "Updates are being downloaded"
+msgstr ""
+
+#: apperd/apperd.notifyrc:223
+msgctxt "Name"
+msgid "A System Restart is Required"
+msgstr ""
+
+#: apperd/apperd.notifyrc:269
+msgctxt "Name"
+msgid "A transaction failed to complete successfully"
+msgstr ""
+
+#: apperd/apperd.notifyrc:315
+msgctxt "Name"
+msgid "Updates finished installing"
+msgstr ""
+
+#: apperd/apperd.notifyrc:361
+msgctxt "Name"
+msgid "Message from the software manager"
+msgstr ""
+
+#: apperd/apperd.notifyrc:403
+msgctxt "Name"
+msgid "A transaction error occurred"
+msgstr ""
+
+#: apperd/apperd.notifyrc:448
+msgctxt "Name"
+msgid "A distribution upgrade is available"
+msgstr ""
+
+#: apperd/apperd.notifyrc:493
+msgctxt "Name"
+msgid "The distribution upgrade completed"
+msgstr ""
+
+#: apperd/apperd.notifyrc:538
+msgctxt "Name"
+msgid "The distribution upgrade completed with an error"
+msgstr ""
+
+#: Apper/org.kde.apper.desktop:51 Apper/org.kde.apper_installer.desktop:50
+#: Apper/org.kde.apper_settings.desktop:51
+#: Apper/org.kde.apper_updates.desktop:51
+msgctxt "GenericName"
+msgid "Software Management"
+msgstr ""
+
+#: Apper/org.kde.apper.desktop:95 Apper/org.kde.apper_installer.desktop:94
+#: Apper/org.kde.apper_settings.desktop:95
+#: Apper/org.kde.apper_updates.desktop:95
+msgctxt "Comment"
+msgid "Application to get and manage software"
+msgstr ""
+
+#: Apper/org.kde.apper_installer.desktop:8
+msgctxt "Name"
+msgid "Apper Installer"
+msgstr ""
+
+#: Apper/org.kde.apper_settings.desktop:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Settings"
+msgctxt "Name"
+msgid "Apper Settings"
+msgstr "Agordo"
+
+#: Apper/org.kde.apper_updates.desktop:9
+msgctxt "Name"
+msgid "Apper Updates"
+msgstr ""
+
+#: AppSetup/apper_appsetup.desktop:6
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Package Manager"
+msgctxt "Name"
+msgid "Limba Package Installer"
+msgstr "Administrilo por programpakaĵoj"
+
+#: AppSetup/apper_appsetup.desktop:37
+msgctxt "GenericName"
+msgid "3rd-party software installer"
+msgstr ""
+
+#: AppSetup/apper_appsetup.desktop:77
+msgctxt "Comment"
+msgid "Tool to install software from 3rd-party sources"
+msgstr ""
+
+#: plasmoid/package/metadata.desktop:3
+msgctxt "Name"
+msgid "Software Updater"
+msgstr ""
+
+#: plasmoid/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "Displays and updates software"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Arboretum"
+#~ msgstr "Arboretum"
+
+#~ msgctxt "Name"
+#~ msgid "Keep"
+#~ msgstr "Keep"

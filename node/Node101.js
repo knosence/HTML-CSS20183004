@@ -20,19 +20,39 @@ the createServer takes 2 args:
 1.request
 2.response
  */
-const server = http.createServer((req, res)=>{
+
+function renderHomePage() {
+
+    const theHTMLtoGet = fs.readFileSync('./homepage.html');
+
+    return theHTMLtoGet;
+
+}
+
+const server = http.createServer((req, res) => {
     // console.log(`inside createServer`);
     console.log(req.url);
 
-    if(req.url === `/`){
+    if (req.url === `/`) {
+        res.writeHead(200, {'content-type': 'text/html'});
+        res.end(renderHomePage());
+    } else if (req.url === '/virat.jpg') {
+        res.writeHead(200, {'content-type': 'image/jpg'});
+        const img = fs.readFileSync('virat.jpg');
+        res.end(img);
+    } else if (req.url === '/gallery') {
         //writeHead takes 2 minimum of 2 args:
         //1. status code
-        //2.
-        res.writeHead(200,{'content-type':'text/plain'});
-        res.write('<h1>Server responding!</h1>');
-        res.end();
+        //2. header object, which needs to be included
+        res.writeHead(200, {'content-type': 'text/plain'});
+        const htmlToUse = fs.readFileSync('gallery.html');
+        res.end(htmlToUse);
+    } else {
+        console.log(req.url + `was not found`);
+        res.end('Page not found!')
     }
 });
+
 
 /*
 tell the server we created with the http object to listen for http traffic
@@ -41,4 +61,4 @@ tell the server we created with the http object to listen for http traffic
 when a request comes in on port 8080, via http, the callback/anon function in createServer will fire off with the req and res object
  */
 
-server.listen(8585);
+server.listen(3000);

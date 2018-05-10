@@ -1,0 +1,745 @@
+# Translation of desktop_extragear-graphics_digikam into esperanto.
+# Axel Rousseau <axel@esperanto-jeunes.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-05-08 01:48+0000\n"
+"PO-Revision-Date: 2009-11-15 12:06+0100\n"
+"Last-Translator: Axel Rousseau <axel@esperanto-jeunes.org>\n"
+"Language-Team: esperanto <kde-i18n-eo@kde.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: pology\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: core/app/main/digikam.notifyrc:3
+msgctxt "Comment"
+msgid "digiKam"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:55
+msgctxt "Name"
+msgid "Download complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:101
+msgctxt "Comment"
+msgid "A download from a camera or other device has finished."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:148
+msgctxt "Name"
+msgid "Save file complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:188
+msgctxt "Comment"
+msgid "A file from image editor is saved."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:231
+msgctxt "Name"
+msgid "Batch queue completed"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:272
+msgctxt "Comment"
+msgid "A queue in the batch queue manager has been completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:315
+msgctxt "Name"
+msgid "Update of fingerprint database complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:357
+msgctxt "Comment"
+msgid "The update of the fingerprint database has been completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:402
+msgctxt "Name"
+msgid "Update of thumbnails database complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:444
+msgctxt "Comment"
+msgid "The update of the thumbnails database has been completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:489
+msgctxt "Name"
+msgid "Synchronization of images' metadata with database completed"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:530
+msgctxt "Comment"
+msgid ""
+"The synchronization of the images' metadata with the database has been "
+"completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:574
+msgctxt "Name"
+msgid "Update of detected faces database complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:613
+msgctxt "Comment"
+msgid "The update of the detected faces database has completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:655
+msgctxt "Name"
+msgid "Update of duplicates items in database complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:693
+msgctxt "Comment"
+msgid "The update of the duplicates items in database has completed."
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:734
+msgctxt "Name"
+msgid "Find of new items in database complete"
+msgstr ""
+
+#: core/app/main/digikam.notifyrc:772
+msgctxt "Comment"
+msgid "The scan of the new items in database has completed."
+msgstr ""
+
+#: core/app/main/org.kde.digikam.desktop:8
+msgctxt "Name"
+msgid "digiKam"
+msgstr ""
+
+#: core/app/main/org.kde.digikam.desktop:64
+msgctxt "GenericName"
+msgid "Photo Management Program"
+msgstr ""
+
+#: core/app/main/org.kde.digikam.desktop:115
+#: core/showfoto/main/org.kde.showfoto.desktop:101
+msgctxt "Comment"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr ""
+
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:3
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:43
+msgctxt "Name"
+msgid "Blue curves"
+msgstr ""
+
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:23
+msgctxt "Comment"
+msgid "A stylised theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:66
+msgctxt "Name"
+msgid "Vincent Deroo Blanquart"
+msgstr ""
+
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:89
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:176
+msgctxt "Name"
+msgid "Gallery Introduction"
+msgstr ""
+
+#: core/data/htmlgallery/themes/bluecurved/bluecurved.desktop:116
+#: core/data/htmlgallery/themes/classic/classic.desktop:100
+msgctxt "Name"
+msgid "Thumbnails per row"
+msgstr ""
+
+#: core/data/htmlgallery/themes/blueframes/blueframes.desktop:3
+#: core/data/htmlgallery/themes/blueframes/blueframes.desktop:51
+msgctxt "Name"
+msgid "Blue Frames"
+msgstr ""
+
+#: core/data/htmlgallery/themes/blueframes/blueframes.desktop:14
+msgctxt "Comment"
+msgid "A theme variation based Frames theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/blueframes/blueframes.desktop:27
+#: core/data/htmlgallery/themes/cleanframes/cleanframes.desktop:49
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:49
+msgctxt "Name"
+msgid "Elizabeth Marmorstein"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:3
+#: core/data/htmlgallery/themes/classic/classic.desktop:49
+msgctxt "Name"
+msgid "Classic"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:25
+msgctxt "Comment"
+msgid "A port of the old HTML Export plugin theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:74
+#: core/data/htmlgallery/themes/matrix/matrix.desktop:49
+#: core/data/htmlgallery/themes/simple/simple.desktop:48
+#: core/data/htmlgallery/themes/snow/snow.desktop:50
+msgctxt "Name"
+msgid "Aurélien Gâteau"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:128
+msgctxt "Name"
+msgid "Background Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:154
+msgctxt "Name"
+msgid "Foreground Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:180
+msgctxt "Name"
+msgid "Font Size"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:208
+msgctxt "Name"
+msgid "Image Border Size"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:236
+msgctxt "Name"
+msgid "Image Border Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:262
+msgctxt "Name"
+msgid "Link Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/classic/classic.desktop:288
+msgctxt "Name"
+msgid "Visited Link Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/cleanframes/cleanframes.desktop:3
+#: core/data/htmlgallery/themes/cleanframes/cleanframes.desktop:73
+msgctxt "Name"
+msgid "Clean Frames"
+msgstr ""
+
+#: core/data/htmlgallery/themes/cleanframes/cleanframes.desktop:25
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:25
+msgctxt "Comment"
+msgid "A frame theme based on Ruediger Bente's frame theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/cleanframes/cleanframes.desktop:98
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:227
+#: core/data/htmlgallery/themes/simple/simple.desktop:74
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:120
+msgctxt "Name"
+msgid "Style"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:3
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:73
+msgctxt "Name"
+msgid "Date Frames"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:98
+msgctxt "Name"
+msgid "Thumbnail Background"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:124
+msgctxt "Name"
+msgid "Image Background (contrasting)"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:150
+msgctxt "Name"
+msgid "Nav Bar Background (dark)"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:202
+msgctxt "Name"
+msgid "Caption Date Format (see http://xsltsl.sourceforge.net/date-time.html)"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:226
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:274
+msgctxt "Comment"
+msgid ""
+"XSL Date Format String: Use the syntax given at http://xsltsl.sourceforge."
+"net/date-time.html"
+msgstr ""
+
+#: core/data/htmlgallery/themes/dateframes/dateframes.desktop:250
+msgctxt "Name"
+msgid "Image List Date Format"
+msgstr ""
+
+#: core/data/htmlgallery/themes/details/details.desktop:3
+msgctxt "Comment"
+msgid "Yet another simple theme. Clean look with more image details."
+msgstr ""
+
+#: core/data/htmlgallery/themes/details/details.desktop:26
+msgctxt "Name"
+msgid "Details"
+msgstr ""
+
+#: core/data/htmlgallery/themes/details/details.desktop:52
+msgctxt "Name"
+msgid "Gianluca Urgese"
+msgstr ""
+
+#: core/data/htmlgallery/themes/details/details.desktop:76
+msgctxt "Name"
+msgid "Details screenshot"
+msgstr ""
+
+#: core/data/htmlgallery/themes/details/details.desktop:101
+msgctxt "Name"
+msgid "Footer information"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:3
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:65
+msgctxt "Name"
+msgid "Elegant"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:22
+msgctxt "Comment"
+msgid ""
+"Based on the \"Simple\" theme. Uses Lytebox by Markus F. Hay to display the "
+"images in a slideshow."
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:42
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:27
+msgctxt "Name"
+msgid "Wojciech Jarosz"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:87
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:50
+msgctxt "Name"
+msgid "Author"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:112
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:93
+msgctxt "Name"
+msgid "Images per page"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:137
+msgctxt "Name"
+msgid "Page links location"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:166
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:217
+msgctxt "Name"
+msgid "Use LyteBox"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:194
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:245
+msgctxt "Name"
+msgid "LyteBox Slideshow Interval"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:261
+msgctxt "Name"
+msgid "Custom Background Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:286
+msgctxt "Name"
+msgid "Custom Foreground Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:310
+msgctxt "Name"
+msgid "Custom Link Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:334
+msgctxt "Name"
+msgid "Custom Hover Link Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:358
+msgctxt "Name"
+msgid "Custom Visited Link Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:382
+msgctxt "Name"
+msgid "Custom Frame Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:406
+msgctxt "Name"
+msgid "Custom Frame Border Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:430
+msgctxt "Name"
+msgid "Custom Selected Frame Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/elegant/elegant.desktop:454
+msgctxt "Name"
+msgid "Custom Selected Frame Border Color"
+msgstr ""
+
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:3
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:73
+msgctxt "Name"
+msgid "Floating Cards"
+msgstr ""
+
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:25
+msgctxt "Comment"
+msgid ""
+"A dark theme with floating thumbnail/description cards. Fast navigation "
+"through the gallery."
+msgstr ""
+
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:49
+msgctxt "Name"
+msgid "Jiří Boháč"
+msgstr ""
+
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:101
+msgctxt "Name"
+msgid "Keyboard & swipe navigation"
+msgstr ""
+
+#: core/data/htmlgallery/themes/floatingcards/floatingcards.desktop:136
+msgctxt "Name"
+msgid "Preload"
+msgstr ""
+
+#: core/data/htmlgallery/themes/frames/frames.desktop:3
+#: core/data/htmlgallery/themes/frames/frames.desktop:73
+msgctxt "Name"
+msgid "Frames"
+msgstr ""
+
+#: core/data/htmlgallery/themes/frames/frames.desktop:25
+msgctxt "Comment"
+msgid "A frame theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/frames/frames.desktop:49
+msgctxt "Name"
+msgid "Ruediger Bente"
+msgstr ""
+
+#: core/data/htmlgallery/themes/matrix/matrix.desktop:3
+#: core/data/htmlgallery/themes/matrix/matrix.desktop:75
+msgctxt "Name"
+msgid "Matrix"
+msgstr ""
+
+#: core/data/htmlgallery/themes/matrix/matrix.desktop:26
+msgctxt "Comment"
+msgid "Show your photos with Matrix style"
+msgstr ""
+
+#: core/data/htmlgallery/themes/s0/s0.desktop:3
+msgctxt "Comment"
+msgid ""
+"Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+"icons."
+msgstr ""
+
+#: core/data/htmlgallery/themes/s0/s0.desktop:26
+#: core/data/htmlgallery/themes/s0/s0.desktop:74
+msgctxt "Name"
+msgid "S0"
+msgstr ""
+
+#: core/data/htmlgallery/themes/s0/s0.desktop:50
+msgctxt "Name"
+msgid "Petr Vaněk"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:3
+msgctxt "Name"
+msgid "Simple Rounded"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:23
+msgctxt "Comment"
+msgid "A theme with rounded corners and page support on big galeries"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:44
+msgctxt "Name"
+msgid "Franz Dietrich"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:67
+msgctxt "Name"
+msgid "Title Bar"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:120
+msgctxt "Name"
+msgid "Name of the Homepage"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:144
+msgctxt "Name"
+msgid "Url to the Homepage"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:169
+msgctxt "Name"
+msgid "Background"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:194
+msgctxt "Name"
+msgid "Content background"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:218
+msgctxt "Name"
+msgid "Icon background"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:242
+msgctxt "Name"
+msgid " Background of the navigation"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:264
+msgctxt "Name"
+msgid "Thumbnail border"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:288
+msgctxt "Name"
+msgid "Links"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simplerounded/simplerounded.desktop:313
+msgctxt "Name"
+msgid "Simple Rounded Shapes"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simple/simple.desktop:3
+#: core/data/htmlgallery/themes/simple/simple.desktop:106
+msgctxt "Name"
+msgid "Simple"
+msgstr ""
+
+#: core/data/htmlgallery/themes/simple/simple.desktop:24
+msgctxt "Comment"
+msgid "A simple and light theme"
+msgstr ""
+
+#: core/data/htmlgallery/themes/snow/snow.desktop:3
+#: core/data/htmlgallery/themes/snow/snow.desktop:76
+msgctxt "Name"
+msgid "Snow"
+msgstr ""
+
+#: core/data/htmlgallery/themes/snow/snow.desktop:26
+msgctxt "Comment"
+msgid "A perfect match for your mountain holidays"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:2
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:278
+msgctxt "Name"
+msgid "Vanilla"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:14
+msgctxt "Comment"
+msgid ""
+"This theme is based on the look of Adobe Lightroom's HTML export. It has a "
+"simple but usable grid layout and comes with various color presets."
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:75
+msgctxt "Name"
+msgid "Author Email"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:90
+msgctxt "Name"
+msgid "Rows per page"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:105
+msgctxt "Name"
+msgid "Columns per page"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:164
+msgctxt "Name"
+msgid "Show image numbers"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:183
+msgctxt "Name"
+msgid "Add drop shadow"
+msgstr ""
+
+#: core/data/htmlgallery/themes/vanilla/vanilla.desktop:202
+msgctxt "Name"
+msgid "Thumbnail margin"
+msgstr ""
+
+#: core/data/printcreator/templates/1_photo_10.5x14.8cm.desktop:3
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr ""
+
+#: core/data/printcreator/templates/1_photo_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr ""
+
+#: core/data/printcreator/templates/1_photo_20x25cm.desktop:3
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr ""
+
+#: core/data/printcreator/templates/1_photo_8x10.desktop:3
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr ""
+
+#: core/data/printcreator/templates/1_photo_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr ""
+
+#: core/data/printcreator/templates/2_photos_13x18cm.desktop:3
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/2_photos_5x7.desktop:3
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/3_photos_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/3_photos_4x6.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/4_photos_10x13.33cm.desktop:3
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/4_photos_3.5x5.desktop:3
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/4_photos_4.5x5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/4_photos_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/4x6Album.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr ""
+
+#: core/data/printcreator/templates/6_photos_3.5x4.5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/6_photos_3.5x4cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/8_photos_6x9cm.desktop:3
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/Album_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr ""
+
+#: core/data/printcreator/templates/Album_11.5x15cm.desktop:3
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr ""
+
+#: core/data/printcreator/templates/Album-Collage1.desktop:3
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/Album-Collage.desktop:3
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/FullPage.desktop:3
+msgctxt "Name"
+msgid "Full page"
+msgstr ""
+
+#: core/data/printcreator/templates/Photoframe.desktop:3
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr ""
+
+#: core/data/printcreator/templates/Thumbnails_5x4.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr ""
+
+#: core/data/printcreator/templates/Thumbnails_6x5.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr ""
+
+#: core/showfoto/main/org.kde.showfoto.desktop:2
+msgctxt "Name"
+msgid "showFoto"
+msgstr ""
+
+#: core/showfoto/main/org.kde.showfoto.desktop:54
+msgctxt "GenericName"
+msgid "Photo Viewer and Editor"
+msgstr ""
