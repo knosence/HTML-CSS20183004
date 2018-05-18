@@ -3,8 +3,8 @@
 //         <h1>Sanity Check</h1>
 //     )
 // }
-const Coin = React.createClass(
-    {
+
+const Coin = React.createClass({
         sides: [
             'http://www.marshu.com/articles/images-website/articles/presidents-on-coins/half-dollar-coin-tail.jpg',
             'http://www.marshu.com/articles/images-website/articles/presidents-on-coins/quarter-coin-head.jpg'
